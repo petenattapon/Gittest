@@ -7,6 +7,23 @@
 
 [Codecamp test](https://github.com/petenattapon/Gittest)
 
+* Code camp 
 * Code camp
-* Code camp
-* Code camp
+* Code camp 
+
+*Code camp*
+_Code camp_
+
+**Code camp**
+__Code camp__
+
+
+*_Code camp_*
+**_Code camp_**
+
+> test
+>> test
+
+***
+---
+------
